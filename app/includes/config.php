@@ -1,11 +1,11 @@
 <?php
 return [
   'db' => [
-    'host' => 'mysql.railway.internal',
-    'port' => 3306,
-    'name' => 'dental_clinic',
-    'user' => 'root',
-    'pass' => 'TztpUtPPwSusqiroCeIkpBFSIDKpanEs',
+    'host' => 'gateway01.ap-southeast-1.prod.aws.tidbcloud.com',
+    'port' => 4000,
+    'name' => 'test',
+    'user' => '3Us1ZLiT8YnLsz7.root',
+    'pass' => 'Ahg2tfcDmKC7sQpY',
     'charset' => 'utf8mb4'
   ],
   'app' => [
